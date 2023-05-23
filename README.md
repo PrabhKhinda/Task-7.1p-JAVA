@@ -2,7 +2,7 @@
 
 # Title: Lost and Found App ( Java Version )
 
-Note: Kotlin Version can be found here:https://github.com/PrabhKhinda/Task-7.1P
+Note: Kotlin Version can be found here: https://github.com/PrabhKhinda/Task-7.1P
 
 # Description:
 The Lost and Found App is an Android application designed to help users post and search for lost or found items. It provides a user-friendly interface for creating and managing advertisements for lost or found items, facilitating the process of reuniting lost items with their owners. The app allows users to input details such as the item name, description, date, location, and contact information.
